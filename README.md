@@ -1,1 +1,1 @@
-# project1_group_c
+Everything for our final submission is in the Group C Project 1 folder.
